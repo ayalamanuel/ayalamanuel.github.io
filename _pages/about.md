@@ -14,4 +14,4 @@ I earned my Bachelor's degree in Mechanical Engineering from Universidad de Orie
 
 I leave you with an impressionist painting of and offshore wind turbine using DALL-E and with a beautiful quote by Anton Flettner. "_The treasures of the world of fluids will not disappoint the persistent explorer_"
 
-![Impressionist painting of and offshore wind turbine using DALL-E](/images/impre_windturbine.png){width="500px"}
+![Impressionist painting of and offshore wind turbine using DALL-E](/images/impre_windturbine.png){: width="500px"}
