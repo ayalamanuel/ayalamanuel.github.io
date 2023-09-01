@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Manuel Ayala"
   avatar           : "personal_photo.png"
-  bio              : "PhD Student"
+  bio              : "PhD Student in Mechanical Engineering"
   location         : "Baltimore, MD. USA"
-  employer         : "Dept. Mechanical Engineering, Johns Hopkins University"
+  employer         : "Johns Hopkins University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=FGOSZWcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
